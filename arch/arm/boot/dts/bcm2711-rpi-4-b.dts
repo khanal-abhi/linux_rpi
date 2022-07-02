@@ -394,6 +394,7 @@
 		#address-cells = <1>;
 		#size-cells = <0>;
 		spi-max-frequency = <125000000>;
+		status = "disabled";
 	};
 
 	spidev1: spidev@1{
